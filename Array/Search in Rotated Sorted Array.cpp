@@ -1,6 +1,6 @@
-Q: https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+//Q: https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
 
-Solution:
+//Solution:
 
 class Solution {
 public:
@@ -23,4 +23,4 @@ public:
     }
 };
 
-TC: O(log N), SC: O(1)
+//TC: O(log N), SC: O(1)
