@@ -1,6 +1,6 @@
-Q: https://www.geeksforgeeks.org/a-product-array-puzzle
+//Q: https://www.geeksforgeeks.org/a-product-array-puzzle
 
-Solution:
+//Solution:
 
 class Solution{
   public:
@@ -23,4 +23,4 @@ class Solution{
     }
 };
 
-TC: O(N), SC: O(N)
+//TC: O(N), SC: O(N)
