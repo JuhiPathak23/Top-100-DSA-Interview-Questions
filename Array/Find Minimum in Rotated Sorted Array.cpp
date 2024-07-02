@@ -1,6 +1,6 @@
-Q: https://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/
+//Q: https://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/
 
-Solution:
+//Solution:
 
 class Solution {
   public:
@@ -29,4 +29,4 @@ class Solution {
     }
 };
 
-TC: O(log N), SC: O(1)
+//TC: O(log N), SC: O(1)
