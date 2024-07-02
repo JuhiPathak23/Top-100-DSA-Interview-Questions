@@ -1,6 +1,6 @@
-Q: https://www.geeksforgeeks.org/best-time-to-buy-and-sell-stock
+//Q: https://www.geeksforgeeks.org/best-time-to-buy-and-sell-stock
 
-Solution:
+//Solution:
 
 class Solution {
 public:
@@ -14,4 +14,4 @@ public:
     }
 };
 
-TC: O(N), SC: O(1)
+//TC: O(N), SC: O(1)
