@@ -1,6 +1,6 @@
-Q: https://www.geeksforgeeks.org/check-if-pair-with-given-sum-exists-in-array
+//Q: https://www.geeksforgeeks.org/check-if-pair-with-given-sum-exists-in-array
 
-Solution:
+//Solution:
 
 class Solution{
 public:	
@@ -19,4 +19,4 @@ public:
 	}
 };
 
-TC: O(N log N), SC: O(1)
+//TC: O(N log N), SC: O(1)
