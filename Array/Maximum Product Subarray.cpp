@@ -1,6 +1,6 @@
-Q: https://www.geeksforgeeks.org/maximum-product-subarray/
+//Q: https://www.geeksforgeeks.org/maximum-product-subarray/
 
-Solution:
+//Solution:
 
 class Solution {
 public:
@@ -32,4 +32,4 @@ public:
     }
 };
 
-TC: O(N), SC: O(1)
+//TC: O(N), SC: O(1)
