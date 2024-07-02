@@ -1,6 +1,6 @@
-Q: https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space
+//Q: https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space
 
-Solution:
+//Solution:
 
 class Solution {
   public:
@@ -17,4 +17,4 @@ class Solution {
     }
 };
 
-TC: O(N), SC: O(N)
+//TC: O(N), SC: O(N)
